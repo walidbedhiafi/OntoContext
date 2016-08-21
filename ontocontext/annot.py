@@ -176,7 +176,7 @@ def syno (Ontology, liste):
 				listy=listy+[j[0]]
 	return list(set(listy))
 #########################################Annotation concepts############################################ 
-def anntation(directory, table_name)
+def anntation(directory, table_name):
 	con = lite.connect('Concepts.sqlite')
 	cur = con.cursor()
 	req='DROP TABLE IF EXISTS '+table_name
