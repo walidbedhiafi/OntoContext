@@ -1,11 +1,11 @@
 OntoContext
 ======
 To annotate biomedical texts using three ontologies and gene names recovering using the geniatagger 
-============================= ========================'\n'
+============================= ==================================================
 Cell Ontology (CL)            Cell populations
 Human Disease Ontology (DOID) Pathologies
 Anatomical Ontology (UBERON)  Anatomical localisation
-============================= ========================'\n'
+============================= ==================================================
 
 
 Prerequisites
