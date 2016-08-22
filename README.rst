@@ -1,11 +1,11 @@
 OntoContext
 ======
 To annotate biomedical texts using three ontologies and gene names recovering using the geniatagger 
-============================= ========================
+============================= ========================'\n'
 Cell Ontology (CL)            Cell populations
 Human Disease Ontology (DOID) Pathologies
 Anatomical Ontology (UBERON)  Anatomical localisation
-============================= ========================
+============================= ========================'\n'
 
 
 Prerequisites
@@ -22,7 +22,7 @@ Installation
 This package is tested under Linux Python 2.7 and is available from the PyPI.  To
 install via pip :
 
-     pip install ontocontext
+     pip install OntoContext
 
 Usage
 -----
